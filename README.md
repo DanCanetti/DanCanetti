@@ -1,14 +1,31 @@
 ### Hi there, I'm Dan 👋
 
-You can find me at [https://danielcanetti.com](danielcanetti.com).
+I'm currently the developer for Nouveau HD Beauty Group, a permanent makeup training company. You can find me at [danielcanetti.com](https://danielcanetti.com).
 
-Reach out to work with me at [https://canetti.codes](canetti.codes)
+Reach out to work with me at [canetti.codes](https://canetti.codes)
 
-<ins>A bit about me</ins>
+---
 
-- 🤓 Currently the developer for Nouveau HD Beauty Group, a permanent makeup training company.
-- 🌱 Learning: `VueJS`, `Laravel`.
-- 🖤 Technologies: `eleventy`, `wordpress`, `.sass`, `.html`, `.jquery`, `.md`, `.bash`
+#### Technologies
+
+`eleventy`, `wordpress`, `.sass`, `.html`, `.jquery`, `.md`, `.bash`
+
+---
+
+#### Learning
+
+`VueJS`, `Laravel`
+
+---
+
+#### Gaming (When I get time)
+
+[Twitch](https://www.twitch.tv/dan_canetti)
+
+---
+
+#### Misc
+
 - 💪 Regular gym-goer .
 - 🏌️ Improving golfer.
 - ⚔️ Blade.
