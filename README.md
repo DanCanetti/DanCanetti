@@ -27,9 +27,9 @@ Reach out to work with me at [canetti.codes](https://canetti.codes)
 
 #### Misc
 
-- 💪 Regular gym-goer .
-- 🏌️ Improving golfer.
-- ⚔️ Blade.
+- 💪 Regular gym-goer
+- 🏌️ Improving golfer
+- ⚔️ Blade
 
 <!--
 **DanCanetti/DanCanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
