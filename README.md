@@ -14,7 +14,7 @@ Reach out to work with me at [canetti.codes](https://canetti.codes).
 
 #### Learning
 
-<img src="https://user-images.githubusercontent.com/12090510/93472506-a6a4a600-f8ec-11ea-851a-664057fc78e9.png" alt="Typescript" width="30px" height="30px"> <img src="https://user-images.githubusercontent.com/12090510/93472712-f71c0380-f8ec-11ea-8209-88034d87c9c9.png" alt="Angular" width="30px" height="30px"> <img src="https://user-images.githubusercontent.com/12090510/90612750-60322d80-e200-11ea-9a17-e8a915be84eb.png" alt="Laravel" width="30px" height="30px">
+<img src="https://user-images.githubusercontent.com/12090510/93472506-a6a4a600-f8ec-11ea-851a-664057fc78e9.png" alt="Typescript" width="25px" height="25px"> <img src="https://user-images.githubusercontent.com/12090510/93472712-f71c0380-f8ec-11ea-8209-88034d87c9c9.png" alt="Angular" width="30px" height="30px"> <img src="https://user-images.githubusercontent.com/12090510/90612750-60322d80-e200-11ea-9a17-e8a915be84eb.png" alt="Laravel" width="30px" height="30px">
 
 ---
 
