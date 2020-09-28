@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan 👋
 
-I'm currently the developer for Nouveau HD Beauty Group, a permanent makeup training company. You can find me at [danielcanetti.com](https://danielcanetti.com).
+I'm currently a front-end developer for Nouveau HD Beauty Group, a permanent makeup training company. You can find me at [danielcanetti.com](https://danielcanetti.com).
 
 Reach out to work with me at [canetti.codes](https://canetti.codes).
 
