@@ -19,7 +19,7 @@ I'm currently a front-end developer for Nouveau HD Beauty Group, a permanent mak
 #### Gaming (When I get time)
 
 [<img src="https://user-images.githubusercontent.com/12090510/90611526-c3bb5b80-e1fe-11ea-94da-12b8780047b1.png" alt="twitch" width="30px" height="30px">](https://www.twitch.tv/dan_canetti) 
-[<img src="https://user-images.githubusercontent.com/12090510/90611528-c3bb5b80-e1fe-11ea-9acb-bd3c00c3365a.png" alt="youtube" width="30px" height="30px">](https://www.youtube.com/channel/UCKaZz_7eUkWWMPDxuHJZd3A/)
+[<img src="https://user-images.githubusercontent.com/12090510/90611528-c3bb5b80-e1fe-11ea-9acb-bd3c00c3365a.png" alt="youtube" width="30px" height="30px">](https://www.youtube.com/c/DanielCanetti/)
 
 ---
 
