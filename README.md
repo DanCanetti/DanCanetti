@@ -1,5 +1,11 @@
 ### Hi there, I'm Dan 👋
 
+A former front-end developer. Most projects are now archived, as are my [old blog posts](https://archive.danielcanetti.com/).
+
+<!--
+
+### Hi there, I'm Dan 👋
+
 I'm currently a front-end developer for Nouveau HD Beauty Group, a permanent makeup training company. You can find me at [danielcanetti.com](https://danielcanetti.com).
 
 ---
@@ -28,6 +34,8 @@ I'm currently a front-end developer for Nouveau HD Beauty Group, a permanent mak
 - 💪 Regular gym-goer
 - 🏌️ Improving golfer
 - ⚔️ Blade
+
+-->
 
 <!--
 **DanCanetti/DanCanetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
