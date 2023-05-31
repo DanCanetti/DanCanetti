@@ -1,8 +1,8 @@
 ### Hi there, I'm Dan 👋
 
-A former front-end developer. Most projects are now archived, as are my [old blog posts](https://archive.danielcanetti.com/).
+A former front-end developer. Most projects are now archived, as are my old blog posts (I'm looking for a new home for them!).
 
-https://www.linkedin.com/in/danielcanetti/
+Back tinkering code in my spare time after a couple of years off. [I'm active on LinkedIn](https://www.linkedin.com/in/danielcanetti/), though not much that's code related.
 
 <!--
 
