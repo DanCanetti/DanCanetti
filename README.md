@@ -2,6 +2,8 @@
 
 A former front-end developer. Most projects are now archived, as are my [old blog posts](https://archive.danielcanetti.com/).
 
+https://www.linkedin.com/in/danielcanetti/
+
 <!--
 
 ### Hi there, I'm Dan 👋
